@@ -1,0 +1,12 @@
+[
+    { "marca": "Rosamonte", "precio": 154, "img": "https://www.rosamonte.com.ar/wp-content/uploads/2016/01/ROSAMONTE-TRADICIONAL-WEB-400x400.png" },
+    { "marca": "Amanda", "precio": 173, "img": "https://yerbamanda.com.ar/productos/yerba-mate-campo500gr/img/main.png" },
+    { "marca": "Chamigo", "precio": 194, "img": "https://hiperlibertad.vteximg.com.br/arquivos/ids/156319-1000-1000/Yerba-Mate-Chamigo-con-palo-500-Gr-YERBA-CHAMIGO-----------X500GR-1-1238.jpg?v=637236237196900000" },
+    { "marca": "Cruz de malta", "precio": 212, "img": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/2010305_f.jpg" },
+    { "marca": "Taragui", "precio": 247, "img": "https://www.uruguayeces.com/1349-large_default/yerba-mate-taragui-12-kg.jpg" },
+    { "marca": "Mañanita", "precio": 250, "img": "https://hiperlibertad.vteximg.com.br/arquivos/ids/170437-1000-1000/YERBA-ma-anitas-1-KG-1-11111.jpg?v=637414176189900000" },
+    { "marca": "Unión", "precio": 254, "img": "https://www.deliargentina.com/image/cache/catalog/product/alimentacion/yerba-mate-union-suave-500gr/yerba-mate-union-suave-500gr-gr-1000x1000.png" },
+    { "marca": "Cbsé", "precio": 256, "img": "https://www.cbse.com.ar/wp-content/uploads/2015/03/CBS%C3%A9-Hierbas-Serranas-1k.png" },
+    { "marca": "Playadito", "precio": 302, "img": "https://jumboargentina.vtexassets.com/arquivos/ids/609096/Yerba-Mate-Playadito-Suave-X1kg-1-854539.jpg?v=637388478780800000" },
+    { "marca": "La Merced", "precio": 382, "img": "https://www.latinfoodsmarket.com/img-YMDeCampoLaMerced500g1.jpg" }
+]

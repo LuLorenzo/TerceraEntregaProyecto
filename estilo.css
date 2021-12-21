@@ -1,0 +1,149 @@
+/*HTML*/
+html{
+    font-size:62.5%;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color: #fefae0;
+    font-family: 'Outfit', sans-serif;
+    padding: 20px;
+    font-size: 4rem;
+}
+
+body{    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#productos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:white;
+    border-style: none;
+    width: 1500px;
+    height: auto;
+}
+
+#yerbas{
+    display: flex;
+    flex-wrap: wrap;
+    height: 350px;
+    width: 300px;
+    margin: 20px;
+    align-items:center ;
+    background-color:#fefae0;
+    border-color: #283618;
+    border-width: medium;
+    border-style:solid;
+}
+
+h3{
+    color:#283618;
+    font-size: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+b{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+img{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    background-color:#606c38;
+    color: white;
+    border-style:none;
+}
+
+/*CARRITO*/
+
+header{
+    background-color: #283618;
+    width: 100%;
+    display: flex;
+    align-content: space-between;
+}
+
+#carrito{
+    height: 350px;
+    width: 300px;
+    margin: 20px;
+    align-items:center ;
+    background-color:#FDF5C4;
+    border-color: #BCD631;
+    border-width: medium;
+    border-style:solid;
+    font-family: 'Outfit', sans-serif;
+    border-top-color: #283618;
+    border-radius: 7px;
+}
+
+#carrito h3{
+    color:#230C0F;
+}
+
+#carrito h4{
+    color:#230C0F;
+}
+
+header #precio{
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    width: auto;
+    margin-right: 20px;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    align-items:center;
+    color: white;
+    font-size: 2rem;
+    background-color: #283618;
+}
+
+header #precio h3{
+    color: white;
+    font-size: 2rem;
+}
+
+header #carrito{
+    color: #283618;
+    font-size: 2rem;
+    z-index: 1;
+    position: absolute;
+    margin-right: auto;
+    margin-top: auto;
+    top: 149px;
+    right: 8px;
+    height: auto;
+}
+
+#btnCarrito{
+    height: 50px;
+    width: 50px;
+    margin-left: 0px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 2.5rem;
+    background-color: #283618;
+}
